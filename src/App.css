@@ -1,0 +1,128 @@
+
+
+body {
+  background-color: #f0f2f5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+  display: flex;
+}
+
+
+
+.info {
+  max-width: 30%;
+  margin-top: 155px;
+  margin-left: 260px;
+
+}
+
+
+#logo {
+  color: #1877f2;
+  
+  font-size: 3.7em;
+  font-weight: bold;
+  height: 35px;
+
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 1.7em;
+}
+
+.login {
+  height: 50px;
+  margin: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+  color: #ffff;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #1877f2;
+
+}
+
+.user {
+  height: 47px;
+  margin: 15px 15px 1px 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+
+
+}
+
+input{
+  font: 1rem/3 sans-serif;
+  padding-left: 15px;
+}
+
+.right{
+margin-top: 120px;
+margin-left: 140px;
+}
+
+.container{
+  background-color: #ffff;
+  display: flex;
+flex-direction: column;
+border-radius: 10px;
+width: 390px;
+height: 360px;
+box-shadow: 0 4px 8px rgba(0, 0, 0,0.1)
+}
+.new {
+  width:200px;
+  align-self: center;
+  font-weight: bold;
+  font-size: 16px;
+  height: 50px;
+  margin: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+  color: #ffff;
+  background-color:#36A420;
+
+}
+
+input:focus{
+  border-color: blue;
+}
+
+hr{
+  color:#ECEDEF;
+}
+
+p.forgot {
+  text-align: center;
+  color: #1877f2;
+  font-weight: normal;
+  font-size: 16px;
+  margin-top: 0%;
+}
+
+.last {
+  font-weight: normal;
+  font-size: 14px;
+  text-align: center;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+
+a:hover {
+  text-decoration: underline;
+}
+
+.last a {
+  color: black;
+  font-weight: bold;
+}
