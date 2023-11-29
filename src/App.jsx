@@ -22,7 +22,6 @@ function App() {
                         href="https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzAxMDYwNjEwLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&ars=facebook_login">Forgot
                         password?</a></p>
                 <div id="line">
-                  <p>padam thapa</p>
                     <hr />
                 </div>
                 <button className="new">Create new account</button>
